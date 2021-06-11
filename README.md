@@ -1,8 +1,11 @@
 ### Hi there 👋
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  
+  <img align="left" alt="zyj1022's GitHub Stats" src="https://github-readme-stats-zyj.vercel.app/api?username=zyj1022&show_icons=true&hide_border=true" />
 
-
-<img align="left" alt="zyj1022's GitHub Stats" src="https://github-readme-stats-zyj.vercel.app/api?username=zyj1022&show_icons=true&hide_border=true" 
+</details>
 
 <!--
 **zyj1022/zyj1022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
