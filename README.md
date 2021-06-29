@@ -31,7 +31,8 @@
 
 ## My Github Status 🦸
 
-![](https://github-readme-stats-zyj.vercel.app/api/top-langs/?username=zyj1022&layout=compact&title_color=333&text_color=333)
+<img align="left" src="https://github-readme-stats-zyj.vercel.app/api/top-langs/?username=zyj1022&hide=python,shell" />
+<img align="left" src="https://github-readme-stats-zyj.vercel.app/api?username=zyj1022&show_icons=true&line_height=40&v=5" />
 
 <!--
 ## My Trending Repos 💻
