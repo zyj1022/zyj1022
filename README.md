@@ -31,14 +31,14 @@
 
 ## My Github Status 🦸
 
-![](https://github-readme-stats-zyj.vercel.app/api/top-langs/?username=zyj1022&layout=compact&bg_color=45,00daff,740df9&title_color=fff&text_color=fff)
+![](https://github-readme-stats-zyj.vercel.app/api/top-langs/?username=zyj1022&layout=compact&title_color=333&text_color=333)
 
-
+<!--
 ## My Trending Repos 💻
 
 [![](https://github-readme-stats-zyj.vercel.app/api/pin/?username=zyj1022&repo=wee&bg_color=45,00daff,740df9&title_color=fff&text_color=fff)](https://github.com/zyj1022/wee)
 [![](https://github-readme-stats-zyj.vercel.app/api/pin/?username=zyj1022&repo=awesome-threejs&bg_color=45,00daff,740df9&title_color=fff&text_color=fff)](https://github.com/zyj1022/awesome-threejs)
-
+-->
 
 <!--
 **zyj1022/zyj1022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
