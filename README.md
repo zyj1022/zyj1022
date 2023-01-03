@@ -1,4 +1,4 @@
-### Hi there 👋✌️   ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=zyj1022)
+### Hi there 👋✌️   ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=zyj1022)
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Montserrat&color=0478F7&size=22&vCenter=true&lines=I'm+a+Frontend+Web+Developer;I'm+a+UI%2FUX+Designer)](https://git.io/typing-svg)
 
